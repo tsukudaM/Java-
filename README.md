@@ -1,7 +1,7 @@
 # Java
 今までに作成したJavaのソースコードを公開しています。
 ## TouchyWindowInstruct.java
-プログラムを起動した時点で画面に「Click in this window.」と表示されるプログラムです。
+プログラムを起動すると画面に「Click in this window.」と表示され、クリックすると「I'm Touched」に表示が変わるプログラムです。
 
 ## Scribbles.java
 マウスをクリックした時に図形オブジェクトが表示されるプログラムです。
