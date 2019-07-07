@@ -4,8 +4,8 @@
 プログラムを起動すると画面に「Click in this window.」と表示され、クリックすると「I'm Touched」に表示が変わるプログラムです。
 
 ## Scribbles.java
-マウスをクリックした時に図形オブジェクトが表示されるプログラムです。
-
+マウスをクリックした時に図のような図形オブジェクトが表示されるプログラムです。
+![Scribbles](image1/ScriblePicture.JPG "何回かクリックした後の状態")
 
 ## Daiamonds.java
 画面にひし形を表示させるプログラムです。
