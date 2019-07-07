@@ -5,7 +5,7 @@
 
 ## Scribbles.java
 マウスをクリックした時に図形オブジェクトが表示されるプログラムです。
-!.[表示される図形](ScriblePicture.JPG "表示される図形")
+[表示される図形](ScriblePicture.JPG "表示される図形")
 
 ## Daiamonds.java
 画面にひし形を表示させるプログラムです。
